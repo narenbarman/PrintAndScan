@@ -1,2 +1,3 @@
-# hello-world
-c# code to print line in console
+# Print And Scan Project
+c# code to print 
+C# code to scan
